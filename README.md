@@ -1,6 +1,6 @@
-# DevindaJayasooriya / README.md
+DevindaJayasooriya / README.md
 
-# Hello there, I'm Devinda 🙌🏻
+### Hello there, I'm Devinda 🙌🏻
 
 
 ## About me 👨🏻‍💻

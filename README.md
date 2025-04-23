@@ -12,7 +12,8 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 ### Tech I’m Playing With 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">
+  <img src="  <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">
+" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" style="background-color: #20232A; padding: 12px; border-radius: 10px;">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">

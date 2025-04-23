@@ -18,7 +18,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">
 </div>
 
-## My Handy Helpers ⚙️
+### My Handy Helpers ⚙️
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">

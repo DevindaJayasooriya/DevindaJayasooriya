@@ -9,7 +9,7 @@ I thrive as a front-end developer, channeling my passion into creating remarkabl
 
 As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
 
-### I'm really enjoying modern tech 💻
+### Tech I’m Playing With 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">
@@ -18,7 +18,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">
 </div>
 
-## Tools In My Arsenal 🛠️
+## My Handy Helpers ⚙️
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">

@@ -1,20 +1,16 @@
 DevindaJayasooriya / README.md
 
-# hashenudara / README.md
-
-# Hey there, I'm Hashen 👋
-
-### Co-founder @xleron
+### Hey there, I'm Hashen 👋
 
 A design-focused developer with a strong eye for aesthetics and a passion for crafting interactive and user-friendly web using technologies like Next.js, React, TailwindCSS & Webflow.
 
-## Who am I 👀
+#### Who am I 👀
 
 I thrive as a front-end developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging Next.js, React, & Node.js to build, fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.
 
 As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
 
-## I'm really enjoying modern tech 💻
+#### I'm really enjoying modern tech 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">
@@ -23,7 +19,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
 </div>
 
-## Tools In My Arsenal 🛠️
+#### Tools In My Arsenal 🛠️
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">

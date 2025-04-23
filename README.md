@@ -15,10 +15,10 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 ## I'm really enjoying modern tech 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" style="background-color: #20232A; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
+  <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" style="background-color: #20232A; padding: 12px; border-radius: 10px;">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 12px; border-radius: 10px;">
 </div>
 
 ## Tools In My Arsenal 🛠️
@@ -35,6 +35,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
   <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
   <img src="https://cdn.simpleicons.org/azure/0078D4" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
+  
 </div>
 
 Feel free to explore some of my projects and repositories on this profile. If you have any questions, or feedback, or just want to connect, don't hesitate to reach out. I'm open to collaboration and always on the lookout for new opportunities.

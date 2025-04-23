@@ -3,13 +3,13 @@ DevindaJayasooriya / README.md
 ### Hello there, I'm Devinda 🙌🏻
 
 
-## About me 👨🏻‍💻
+### About me 👨🏻‍💻
 
 I thrive as a front-end developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging Next.js, React, & Node.js to build, fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.
 
 As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.
 
-## I'm really enjoying modern tech 💻
+### I'm really enjoying modern tech 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 12px; border-radius: 10px;">

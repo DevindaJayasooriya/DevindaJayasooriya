@@ -4,7 +4,7 @@ DevindaJayasooriya / README.md
 
 # Hey there, I'm Hashen 👋
 
-## Co-founder @xleron
+### Co-founder @xleron
 
 A design-focused developer with a strong eye for aesthetics and a passion for crafting interactive and user-friendly web using technologies like Next.js, React, TailwindCSS & Webflow.
 

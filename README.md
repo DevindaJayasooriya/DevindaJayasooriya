@@ -1,9 +1,5 @@
 # Hey there, I'm Devinda 👋
 
-## Co-founder @[Your Company/Project Name]
-
-A design-focused developer with a strong eye for aesthetics and a passion for crafting interactive and user-friendly web applications using technologies like Next.js, React, TailwindCSS & Node.js.
-
 ## Who am I 👀
 
 I thrive as a full-stack developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging Next.js, React, & Node.js to build fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.

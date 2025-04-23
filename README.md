@@ -4,7 +4,7 @@ DevindaJayasooriya / README.md
 
 
 ### About me 👨🏻‍💻
-
+---
 I thrive as a front-end developer, channeling my passion into creating remarkable web applications. My expertise lies in leveraging Next.js, React, & Node.js to build, fast, & scalable websites. I am committed to continuous learning and skill improvement within these domains, always striving to stay at the forefront of industry trends.
 
 As a programming enthusiast, I have an insatiable appetite for knowledge and love to gather insights along my journey. Additionally, my design-focused approach ensures that I bring a keen sense of aesthetics to my projects, creating user-friendly experiences.

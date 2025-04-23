@@ -13,10 +13,7 @@ As a programming enthusiast, I have an insatiable appetite for knowledge and lov
 ## I'm really enjoying modern tech 💻
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img src="https://cdn.simpleicons.org/next.js/white" width="50" height="50" style="background-color: #000000; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" style="background-color: #20232A; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" style="background-color: #FFFFFF; padding: 10px; border-radius: 10px;">
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
 ## Tools In My Arsenal 🛠️

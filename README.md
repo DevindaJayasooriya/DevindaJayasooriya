@@ -6,7 +6,7 @@ A passionate full-stack developer with a love for building seamless and efficien
 
 I’m a full-stack dev hooked on **Next.js**, **React**, **Node.js**, **TypeScript**, and **Express.js**, building fast and fun web apps. I love learning new tech to keep my skills sharp!  
 
-As who enjoys finding fresh ideas to make my projects pop, I also make sure my apps are user-friendly and look cool, mixing my coding love with awesome design.
+As who enjoys finding fresh ideas to make my projects pop, I also make sure my apps are user-friendly and look cool, mixing my coding with awesome design.
 
 ## Tech I’m Playing With 💻
 

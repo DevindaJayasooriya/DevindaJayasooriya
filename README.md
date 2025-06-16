@@ -19,13 +19,14 @@ As who enjoys finding fresh ideas to make my projects pop, I also make sure my a
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,materialui,vscode,idea,docker,discord"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,materialui,vscode,idea,docker,vercel,discord"/>
 </div>
 
 ## Get in Touch ✨
 
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>](https://www.linkedin.com/in/devindajayasooriya/)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>](https://www.instagram.com/__devvin._/)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>](https://www.https://x.com/devinda_jay)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>](mailto:devinda.jay.me@gmail.com)
 
 <div style="margin-top: 20px">

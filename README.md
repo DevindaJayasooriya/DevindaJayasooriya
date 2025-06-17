@@ -26,7 +26,7 @@ As who enjoys finding fresh ideas to make my projects pop, I also make sure my a
 
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>](https://www.linkedin.com/in/devindajayasooriya/)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>](https://www.instagram.com/__devvin._/)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>](https://www.https://x.com/devinda_jay)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>](https://x.com/devinda_jay)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>](mailto:devinda.jay.me@gmail.com)
 
 <div style="margin-top: 20px">

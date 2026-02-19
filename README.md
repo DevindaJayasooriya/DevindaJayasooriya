@@ -12,7 +12,7 @@ As who enjoys finding fresh ideas to make my projects pop, I also make sure my a
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,fastapi,express,nestjs,postgres"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,tailwind,nodejs,fastapi,express,nestjs,postgres"/>
 </div>
 
 ## My Handy Helpers ⚙️

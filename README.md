@@ -8,14 +8,14 @@ I’m a full-stack dev hooked on **Next.js**, **React**, **Node.js**, **TypeScri
 
 As who enjoys finding fresh ideas to make my projects pop, I also make sure my apps are user-friendly and look cool, mixing my coding with awesome design.
 
-## Tech I’m Playing With 💻
+## Tech Stack 💻🛠️ 
 
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,tailwind,nodejs,fastapi,express,nestjs,postgres"/>
 </div>
 
-## My Handy Helpers ⚙️
+## Tools & Technologies ⚙️ 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://skillicons.dev">

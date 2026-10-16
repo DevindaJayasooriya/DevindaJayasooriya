@@ -19,7 +19,13 @@ As who enjoys finding fresh ideas to make my projects pop, I also make sure my a
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,materialui,vscode,idea,docker,vercel,discord"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,materialui,vscode,docker,vercel,discord"/>
+  <a href="https://cursor.com/" title="Cursor">
+    <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" />
+  </a>
+  <a href="https://substack.com/" title="GrokBot">
+  <img src="assets/grokbot.png" width="48" height="48" alt="GrokBot" style="border-radius: 12px;" />
+ </a>
 </div>
 
 ## Get in Touch ✨
